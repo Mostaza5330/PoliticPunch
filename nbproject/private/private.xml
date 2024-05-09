@@ -3,11 +3,12 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/osval/OneDrive/Escritorio/Log/src/log/Juego.java</file>
-            <file>file:/C:/Users/osval/OneDrive/Escritorio/Log/src/log/Inicio.java</file>
-            <file>file:/C:/Users/osval/OneDrive/Escritorio/Log/src/log/Login.java</file>
-            <file>file:/C:/Users/osval/OneDrive/Escritorio/Log/src/log/Registrar.java</file>
-            <file>file:/C:/Users/osval/OneDrive/Escritorio/Log/src/log/Pausa.java</file>
+            <file>file:/E:/PoliticPunch/src/gameManager/Jugador2.java</file>
+            <file>file:/E:/PoliticPunch/src/gameManager/Arrancar.java</file>
+            <file>file:/E:/PoliticPunch/src/log/Inicio.java</file>
+            <file>file:/E:/PoliticPunch/src/gameManager/Fondo.java</file>
+            <file>file:/E:/PoliticPunch/src/gameManager/Jugador1.java</file>
+            <file>file:/E:/PoliticPunch/src/gameManager/JuegoAdmin.java</file>
         </group>
     </open-files>
 </project-private>
